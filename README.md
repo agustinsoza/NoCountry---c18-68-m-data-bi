@@ -86,13 +86,14 @@ Teniendo en cuenta que el Attrition puede tener un impacto significativo en las 
 
 ## Modelo
 
-El [Modelo](https://github.com/agustinsoza/NoCountry---c18-68-m-data-bi/blob/main/Modelo_ER_NoCountry.png) consta de ocho entidades:
+El [Modelo]consta de ocho entidades:
 
+![Modelo](https://github.com/agustinsoza/NoCountry---c18-68-m-data-bi/blob/main/Modelo_ER_NoCountry.png)
 
 1. Entidad Genero
 Almacena el genero del colaborador.
 
-2. Entidad Nivel Educativo
+1. Entidad Nivel Educativo
 
 Atributo que almacena es el campo de estudio.
 
