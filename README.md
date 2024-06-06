@@ -86,7 +86,7 @@ Teniendo en cuenta que el Attrition puede tener un impacto significativo en las 
 
 ## Modelo
 
-El [Modelo]consta de ocho entidades:
+El modelo consta de ocho entidades:
 
 ![Modelo](https://github.com/agustinsoza/NoCountry---c18-68-m-data-bi/blob/main/Modelo_ER_NoCountry.png)
 
