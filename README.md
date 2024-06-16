@@ -27,7 +27,7 @@ LinkedIn: www.linkedin.com/in/ceci-aponte-data
 
 ## Tecnologias utilizadas
 
-![tecnoss](https://github.com/agustinsoza/NoCountry---c18-68-m-data-bi/blob/main/imagentecnologias.png)
+![tecnoss](https://github.com/agustinsoza/NoCountry---c18-68-m-data-bi/blob/main/tecnoss.png)
 
 ## Data
 
